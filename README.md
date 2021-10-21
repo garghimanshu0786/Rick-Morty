@@ -24,3 +24,8 @@ Kotlin Coroutines - A concurrency design pattern that you can use on Android to 
 Paging 3 library - The Paging library helps you load and display pages of data from a larger dataset from local storage or over network. This approach allows your app to use both network bandwidth and system resources more efficiently.
 Retofit - Retrofit is a REST Client for Java and Android by Square inc under Apache 2.0 license. Its a simple network library that used for network transactions. By using this library we can seamlessly capture JSON response from web service/web API.Logging Interceptor - logs HTTP request and response data.
 
+ScreenShots
+![Home](https://user-images.githubusercontent.com/33326079/138370846-eb7032a8-0ab0-4141-91f1-c9d1208d2ce1.PNG)
+![Characters](https://user-images.githubusercontent.com/33326079/138370851-db0c461b-3d6f-44c5-a8b5-71bf8d128eaa.PNG)
+![Search](https://user-images.githubusercontent.com/33326079/138370856-c5efa5b4-6e44-4202-b81d-f520734916ee.PNG)
+![Filter](https://user-images.githubusercontent.com/33326079/138370858-07fd2827-6454-456a-8bb0-26d2ebb20bce.PNG)
