@@ -1,4 +1,4 @@
-# Rick-Morty
+# Rick-Morty Test change to raise a pull request
 
 ### A simple app that consumes The Rick and Morty API which is a REST and GraphQL API based on the television show Rick and Morty.Built with clean architecture principles.
 
